@@ -12,7 +12,7 @@ Battery Status Web Monitor is a real-time web application that displays battery 
 
 ## Screenshots 📸
 
-![Battery Status Web Monitor](screenshot.png)
+<img width="1036" alt="image" src="https://github.com/isaac-goncalves/BSA-Battery-Status/assets/82903174/4a6851d9-3166-45fe-9df7-7b81e2cdbaaf">
 
 ## Getting Started 🛠️
 
