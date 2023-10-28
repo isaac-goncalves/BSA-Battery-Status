@@ -1,5 +1,5 @@
 # 🚀 Battery Status Web Monitor 📊
-
+![image](https://github.com/isaac-goncalves/BSA-Battery-Status/assets/82903174/5ba92410-9c93-415e-a443-838adc73a329)
 Battery Status Web Monitor is a real-time web application that displays battery status data in the form of dynamic charts and tables. It provides you with a convenient way to monitor your device's battery health.
 
 ## Features 🌟
