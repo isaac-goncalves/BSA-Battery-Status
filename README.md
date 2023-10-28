@@ -20,6 +20,7 @@ Battery Status Web Monitor is a real-time web application that displays battery 
 2. Install Python and required dependencies.
    ```bash
    pip install Flask
+   py flask_app.py
 Run the Flask app:
 bash
 Copy code
